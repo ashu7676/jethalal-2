@@ -2,12 +2,12 @@
   "redirects": [
     { 
       "source": "/",
-      "destination": "https://pabio.com",
+      "destination": "https://www.revenuecpmgate.com/kpa69jqqgu?key=0668099b1b58c16156c431b7d5a566e4",
       "permanent": true
     },
     { 
       "source": "/:path*",
-      "destination": "https://pabio.com/:path*",
+      "destination": "https://www.revenuecpmgate.com/kpa69jqqgu?key=0668099b1b58c16156c431b7d5a566e4/:path*",
       "permanent": true
     }
   ]
